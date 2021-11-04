@@ -170,6 +170,13 @@ label{
     width: 600px;
 }
 
+.meldingen{
+  background-color: rgb(238, 238, 238);
+}
+
+.first-line{
+  background-color: lightgray;
+}
 
 
 
